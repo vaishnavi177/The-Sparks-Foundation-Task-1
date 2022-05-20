@@ -1,1 +1,2 @@
-# The-Sparks-Foundation-Task-1
+# Prediction using supervised ML
+In this task we will predict the percentage score of a student based on number of hours they studied.The task has two varaible where their feature is number of hours studied and percentage score's.This is simple linear regression task as it involves just two variables.Basically,Supervised learning is the types of machine learning in which machines are trained using well "labelled" training data, and on basis of that data, machines predict the output.
